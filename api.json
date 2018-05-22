@@ -1,0 +1,79 @@
+{
+ "update": [{
+   "lastversion":2.0 ,
+   "downloadlink": "https://domain.com/proxy.apk",
+   "changeList": "برای استفاده با کیفیت بهتر  و امکان دسترسی به تلگرام از نسخه اخر استفاده کنید"
+   }],
+"proxy": [
+  {
+  "ip": "185.183.129.82",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "226@3e4=0-13",
+  "url": "https://t.me/socks?server=185.183.129.82&port=443&user=hotgram&pass=226%403e4%3D0-13"
+  },
+  {
+  "ip": "185.183.128.35",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "0551+c6b--13",
+  "url": "https://t.me/socks?server=185.183.128.35&port=443&user=hotgram&pass=0551%2Bc6b--13"
+  },
+  {
+  "ip": "213.195.52.217",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "12@.6a-6+413",
+  "url": "https://t.me/socks?server=213.195.52.217&port=443&user=hotgram&pass=12%40.6a-6%2B413"
+  },
+  {
+  "ip": "213.195.52.25",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "175@22c6@@13",
+  "url": "https://t.me/socks?server=213.195.52.25&port=443&user=hotgram&pass=175%4022c6%40%4013"
+  },
+  {
+  "ip": "185.183.129.22",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "58278f6-@+12",
+  "url": "https://t.me/socks?server=185.183.129.22&port=443&user=hotgram&pass=58278f6-%40%2B12"
+  },
+  {
+  "ip": "185.183.129.219",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "20@0_3f_e-13",
+  "url": "https://t.me/socks?server=185.183.129.219&port=443&user=hotgram&pass=20%400_3f_e-13"
+  },
+  {
+  "ip": "185.183.129.249",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "18@-7af-7d13",
+  "url": "https://t.me/socks?server=185.183.129.249&port=443&user=hotgram&pass=18%40-7af-7d13"
+  },
+  {
+  "ip": "213.195.52.126",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "546a@a-ab-12",
+  "url": "https://t.me/socks?server=213.195.52.126&port=443&user=hotgram&pass=546a%40a-ab-12"
+  },
+  {
+  "ip": "213.195.52.170",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "05ff8a_+@_13",
+  "url": "https://t.me/socks?server=213.195.52.170&port=443&user=hotgram&pass=05ff8a_%2B%40_13"
+  },
+  {
+  "ip": "185.183.128.193",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "06-2.30+9f13",
+  "url": "https://t.me/socks?server=185.183.128.193&port=443&user=hotgram&pass=06-2.30%2B9f13"
+  }
+ ]
+}

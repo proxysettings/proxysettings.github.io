@@ -1,0 +1,79 @@
+{
+ "update": [{
+   "lastversion":1.0 ,
+   "downloadlink": "https://domain.com/proxy.apk",
+   "changeList": "برای استفاده با کیفیت بهتر  و امکان دسترسی به تلگرام از نسخه اخر استفاده کنید"
+   }],
+"proxy": [
+{
+"ip": "213.195.52.149",
+"port": 443,
+"user": "hotgram",
+"pass": "10.545cd4f09",
+"url": "https://t.me/socks?server=213.195.52.149&port=443&user=hotgram&pass=10.545cd4f09"
+},
+{
+"ip": "185.183.128.123",
+"port": 443,
+"user": "hotgram",
+"pass": "56_2@5+0_c08",
+"url": "https://t.me/socks?server=185.183.128.123&port=443&user=hotgram&pass=56_2%405%2B0_c08"
+},
+{
+"ip": "185.183.128.114",
+"port": 443,
+"user": "hotgram",
+"pass": "51=a_d4ce.08",
+"url": "https://t.me/socks?server=185.183.128.114&port=443&user=hotgram&pass=51%3Da_d4ce.08"
+},
+{
+"ip": "185.183.129.44",
+"port": 443,
+"user": "hotgram",
+"pass": "40cc3=.+5+08",
+"url": "https://t.me/socks?server=185.183.129.44&port=443&user=hotgram&pass=40cc3%3D.%2B5%2B08"
+},
+{
+"ip": "185.183.129.191",
+"port": 443,
+"user": "hotgram",
+"pass": "46b0c1+-5=08",
+"url": "https://t.me/socks?server=185.183.129.191&port=443&user=hotgram&pass=46b0c1%2B-5%3D08"
+},
+{
+"ip": "213.195.52.200",
+"port": 443,
+"user": "hotgram",
+"pass": "48aa_3-9-_08",
+"url": "https://t.me/socks?server=213.195.52.200&port=443&user=hotgram&pass=48aa_3-9-_08"
+},
+{
+"ip": "213.195.52.240",
+"port": 443,
+"user": "hotgram",
+"pass": "49+d--@60908",
+"url": "https://t.me/socks?server=213.195.52.240&port=443&user=hotgram&pass=49%2Bd--%4060908"
+},
+{
+"ip": "185.183.128.219",
+"port": 443,
+"user": "hotgram",
+"pass": "51=@f45e_=08",
+"url": "https://t.me/socks?server=185.183.128.219&port=443&user=hotgram&pass=51%3D%40f45e_%3D08"
+},
+{
+"ip": "213.195.53.44",
+"port": 443,
+"user": "hotgram",
+"pass": "56@..114-c08",
+"url": "https://t.me/socks?server=213.195.53.44&port=443&user=hotgram&pass=56%40..114-c08"
+},
+{
+"ip": "213.195.52.38",
+"port": 443,
+"user": "hotgram",
+"pass": "43678@0+0108",
+"url": "https://t.me/socks?server=213.195.52.38&port=443&user=hotgram&pass=43678%400%2B0108"
+}
+]
+}
