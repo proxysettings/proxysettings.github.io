@@ -5,5 +5,103 @@
    "changeList": "برای استفاده با کیفیت بهتر  و امکان دسترسی به تلگرام از نسخه اخر استفاده کنید"
    }],
 "proxy": [
+  {
+  "ip": "185.183.128.203",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "184=.d9.6401",
+  "url": "https://t.me/socks?server=185.183.128.203&port=443&user=hotgram&pass=184%3D.d9.6401"
+  },
+  {
+  "ip": "213.195.53.186",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "180=0b--0.01",
+  "url": "https://t.me/socks?server=213.195.53.186&port=443&user=hotgram&pass=180%3D0b--0.01"
+  },
+  {
+  "ip": "213.195.53.226",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "36-@+117b301",
+  "url": "https://t.me/socks?server=213.195.53.226&port=443&user=hotgram&pass=36-%40%2B117b301"
+  },
+  {
+  "ip": "213.195.53.147",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "36cf.e-f4-01",
+  "url": "https://t.me/socks?server=213.195.53.147&port=443&user=hotgram&pass=36cf.e-f4-01"
+  },
+  {
+  "ip": "185.183.128.166",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "13@@fdc_cd01",
+  "url": "https://t.me/socks?server=185.183.128.166&port=443&user=hotgram&pass=13%40%40fdc_cd01"
+  },
+  {
+  "ip": "185.183.128.158",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "26d.@1e_e.01",
+  "url": "https://t.me/socks?server=185.183.128.158&port=443&user=hotgram&pass=26d.%401e_e.01"
+  },
+  {
+  "ip": "213.195.53.240",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "35f.80+_6801",
+  "url": "https://t.me/socks?server=213.195.53.240&port=443&user=hotgram&pass=35f.80%2B_6801"
+  },
+  {
+  "ip": "185.183.128.110",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "17=.10.5b601",
+  "url": "https://t.me/socks?server=185.183.128.110&port=443&user=hotgram&pass=17%3D.10.5b601"
+  },
+  {
+  "ip": "185.183.128.149",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "41-_1cb3_-01",
+  "url": "https://t.me/socks?server=185.183.128.149&port=443&user=hotgram&pass=41-_1cb3_-01"
+  },
+  {
+  "ip": "213.195.53.73",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "25_6d@c.+801",
+  "url": "https://t.me/socks?server=213.195.53.73&port=443&user=hotgram&pass=25_6d%40c.%2B801"
+  },
+  {
+  "ip": "185.183.128.163",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "43aa.0_=5301",
+  "url": "https://t.me/socks?server=185.183.128.163&port=443&user=hotgram&pass=43aa.0_%3D5301"
+  },
+  {
+  "ip": "213.195.52.75",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "179=05.3+201",
+  "url": "https://t.me/socks?server=213.195.52.75&port=443&user=hotgram&pass=179%3D05.3%2B201"
+  },
+  {
+  "ip": "213.195.52.161",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "1802+-776701",
+  "url": "https://t.me/socks?server=213.195.52.161&port=443&user=hotgram&pass=1802%2B-776701"
+  },
+  {
+  "ip": "213.195.52.34",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "18_899f+.-01",
+  "url": "https://t.me/socks?server=213.195.52.34&port=443&user=hotgram&pass=18_899f%2B.-01"
+  }
  ]
 }
