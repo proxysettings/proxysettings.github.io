@@ -95,6 +95,27 @@
   "user": "hotgram",
   "pass": "<3",
   "url": "https://t.me/socks?server=127.0.0.1&port=443&user=hotgram&pass=<3"
+  },
+  {
+  "ip": "127.0.0.1",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "<3",
+  "url": "https://t.me/socks?server=127.0.0.1&port=443&user=hotgram&pass=<3"
+  },
+  {
+  "ip": "127.0.0.1",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "<3",
+  "url": "https://t.me/socks?server=127.0.0.1&port=443&user=hotgram&pass=<3"
+  },
+  {
+  "ip": "127.0.0.1",
+  "port": 443,
+  "user": "hotgram",
+  "pass": "<3",
+  "url": "https://t.me/socks?server=127.0.0.1&port=443&user=hotgram&pass=<3"
   }
  ]
 }
