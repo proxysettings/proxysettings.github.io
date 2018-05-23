@@ -6,74 +6,74 @@
    }],
 "proxy": [
   {
-  "ip": "185.183.128.201",
+  "ip": "213.195.52.205",
   "port": 443,
   "user": "hotgram",
-  "pass": "45221+=d-f05",
-  "url": "https://t.me/socks?server=185.183.128.201&port=443&user=hotgram&pass=45221%2B%3Dd-f05"
+  "pass": "04c2==53+d06",
+  "url": "https://t.me/socks?server=213.195.52.205&port=443&user=hotgram&pass=04c2%3D%3D53%2Bd06"
   },
   {
-  "ip": "185.183.129.165",
+  "ip": "213.195.52.206",
   "port": 443,
   "user": "hotgram",
-  "pass": "3144_d99@_05",
-  "url": "https://t.me/socks?server=185.183.129.165&port=443&user=hotgram&pass=3144_d99%40_05"
+  "pass": "37c-._cac705",
+  "url": "https://t.me/socks?server=213.195.52.206&port=443&user=hotgram&pass=37c-._cac705"
   },
   {
-  "ip": "213.195.53.121",
+  "ip": "213.195.52.31",
   "port": 443,
   "user": "hotgram",
-  "pass": "468.@_7aa205",
-  "url": "https://t.me/socks?server=213.195.53.121&port=443&user=hotgram&pass=468.%40_7aa205"
+  "pass": "535a=+eb1@05",
+  "url": "https://t.me/socks?server=213.195.52.31&port=443&user=hotgram&pass=535a%3D%2Beb1%4005"
   },
   {
-  "ip": "185.183.129.202",
+  "ip": "185.183.128.200",
   "port": 443,
   "user": "hotgram",
-  "pass": "390.89=.b805",
-  "url": "https://t.me/socks?server=185.183.129.202&port=443&user=hotgram&pass=390.89%3D.b805"
+  "pass": "430.19+9@705",
+  "url": "https://t.me/socks?server=185.183.128.200&port=443&user=hotgram&pass=430.19%2B9%40705"
   },
   {
-  "ip": "213.195.53.174",
+  "ip": "213.195.52.179",
   "port": 443,
   "user": "hotgram",
-  "pass": "50528=f0=.05",
-  "url": "https://t.me/socks?server=213.195.53.174&port=443&user=hotgram&pass=50528%3Df0%3D.05"
+  "pass": "471@9=c=2_05",
+  "url": "https://t.me/socks?server=213.195.52.179&port=443&user=hotgram&pass=471%409%3Dc%3D2_05"
   },
   {
-  "ip": "185.183.129.15",
+  "ip": "213.195.52.110",
   "port": 443,
   "user": "hotgram",
-  "pass": "492++b+08+05",
-  "url": "https://t.me/socks?server=185.183.129.15&port=443&user=hotgram&pass=492%2B%2Bb%2B08%2B05"
+  "pass": "426-7==-ad05",
+  "url": "https://t.me/socks?server=213.195.52.110&port=443&user=hotgram&pass=426-7%3D%3D-ad05"
   },
   {
-  "ip": "185.183.129.213",
+  "ip": "213.195.52.221",
   "port": 443,
   "user": "hotgram",
-  "pass": "573..-7_1a05",
-  "url": "https://t.me/socks?server=185.183.129.213&port=443&user=hotgram&pass=573..-7_1a05"
+  "pass": "47e98._6=c05",
+  "url": "https://t.me/socks?server=213.195.52.221&port=443&user=hotgram&pass=47e98._6%3Dc05"
   },
   {
-  "ip": "213.195.52.246",
+  "ip": "213.195.53.228",
   "port": 443,
   "user": "hotgram",
-  "pass": "03=ff818._06",
-  "url": "https://t.me/socks?server=213.195.52.246&port=443&user=hotgram&pass=03%3Dff818._06"
+  "pass": "398876+@.005",
+  "url": "https://t.me/socks?server=213.195.53.228&port=443&user=hotgram&pass=398876%2B%40.005"
   },
   {
-  "ip": "185.183.129.194",
+  "ip": "213.195.54.74",
   "port": 443,
   "user": "hotgram",
-  "pass": "597d_2=d-.05",
-  "url": "https://t.me/socks?server=185.183.129.194&port=443&user=hotgram&pass=597d_2%3Dd-.05"
+  "pass": "529+_445_d05",
+  "url": "https://t.me/socks?server=213.195.54.74&port=443&user=hotgram&pass=529%2B_445_d05"
   },
   {
-  "ip": "213.195.53.243",
+  "ip": "213.195.53.141",
   "port": 443,
   "user": "hotgram",
-  "pass": "012_@da9@706",
-  "url": "https://t.me/socks?server=213.195.53.243&port=443&user=hotgram&pass=012_%40da9%40706"
+  "pass": "047.4+41+406",
+  "url": "https://t.me/socks?server=213.195.53.141&port=443&user=hotgram&pass=047.4%2B41%2B406"
   }
  ]
 }
